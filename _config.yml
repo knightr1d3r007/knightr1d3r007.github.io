@@ -1,8 +1,8 @@
 # Site settings
 title: Knightr1d3r007 hacker extraordinaire
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+description: This is a simple test of a - possible new site
+# baseurl: "/particle" # the subpath of your site, e.g. /blog 
+url: "https://knightr1d3r007.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Knightr1d3007
