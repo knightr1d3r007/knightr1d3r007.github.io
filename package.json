@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Knightrid1d3r007",
+  "author": "Knightr1d3r007",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
